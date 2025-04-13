@@ -1,91 +1,78 @@
-<!-- 页面顶部动态效果 -->
+<!-- Page Header Animation -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20dark-Qy!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
- 
-<!-- 打字机效果 -->
+
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile!;Network+Security+Researcher+%7C+Go+Developer;Contributing+to+Casbin's+casibase+project" />
 </p>
- 
+
+## 🚀 About Me
+
+- 🎓 Studying at **Beijing University of Posts and Telecommunications (BUPT)**
+- 🔭 Currently contributing to **[casibase](https://github.com/casbin/casibase)** open source project
+- 🌱 Focusing on **Network Security Research**
+- 💻 Go developer with interests in security and backend systems
+- ⚽ Soccer enthusiast in my free time
+
+## 📊 GitHub Stats
+
 <p align="center">
-<!-- GitHub数据概览 -->
+<!-- GitHub Overview Stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=dark-Qy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-<!-- 连续贡献记录 -->
+
+<!-- Streak Stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=dark-Qy&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
-<!-- 活动贡献图 -->
+
+<!-- Activity Graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=dark-Qy&theme=github-compact&hide_border=true&area=true">
 <br/>
-<!-- 项目语言比例 -->
+
+<!-- Language Stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-Qy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-<br/>
-<!-- 技术栈图标展示 -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,react,vue,nodejs,git&theme=light" />
 </p>
 
-## 📊 我的GitHub统计
+## 🛠️ Tech Stack
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dark-Qy&show_icons=true&theme=radical&count_private=true" alt="GitHub统计信息" />
-  </a>
-</div>
-
-## 🚀 关于我
-
-- 🔭 我目前正在开发各种有趣的项目
-- 🌱 我正在学习前端和后端开发技术
-- 👯 我正在寻找项目合作机会
-- 💬 你可以问我关于Web开发的问题
-- ⚡ 有趣的事实: 我热爱编程，喜欢探索新技术
-
-## 🛠️ 技能与工具
+<p align="center">
+<!-- Tech Icons -->
+<img align="center" src="https://skillicons.dev/icons?i=go,py,c,cpp,java,js,react,git&theme=light" />
+</p>
 
 <div align="center">
   
-  <!-- 编程语言 -->
+  <!-- Programming Languages -->
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
-  <!-- 前端技术 -->
+  <!-- Technologies -->
   ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
-  <!-- 后端技术 -->
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  <!-- Security Tools -->
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   
-  <!-- 开发工具 -->
+  <!-- Development Tools -->
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-## 🔍 社交媒体
+## 🔍 Connect With Me
 
-<!-- 社交媒体徽章 -->
 <p align="center">
 <a href="https://github.com/dark-Qy"><img src="https://img.shields.io/badge/GitHub-dark--Qy-blue?logo=github" /></a>
-<!-- 添加你的其他社交媒体链接 -->
-<!-- 个人资料访问计数器 -->
+<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=dark-Qy&abbreviated=true&color=yellow" />
 </p>
 
-## 🐍 贡献图蛇形动画
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- 页面底部动态效果 -->
+<!-- Page Footer Animation -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
