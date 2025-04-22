@@ -34,7 +34,7 @@
 
 <p align="center">
 <!-- Tech Icons -->
-<img align="center" src="https://skillicons.dev/icons?i=go,py,c,cpp,java,js,react,git&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=go,py,react,git&theme=light" />
 </p>
 
 <div align="center">
