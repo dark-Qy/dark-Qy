@@ -1,11 +1,11 @@
-<!-- Page Header Animation -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20dark-Qy!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
-</p>
+<!-- 紧凑页眉 - 只有120px高 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi%20There!&fontSize=35&fontColor=fff&animation=fadeIn" />
+</div>
 
-<!-- Typing Animation -->
+<!-- 精简动画 - 高度只有40px -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile!;Network+Security+Researcher+%7C+Go+Developer;Contributing+to+Casbin's+casibase+project" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2000&color=36BCF7&center=true&width=450&height=40&lines=Security+Researcher+%7C+Go+Dev;Open+Source+Contributor;BUPT+Student" />
 </p>
 
 ## 🚀 About Me
@@ -19,16 +19,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<!-- GitHub Overview Stats -->
-<!-- img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=dark-Qy&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-
-<!-- Activity Graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=dark-Qy&theme=github-compact&hide_border=true&area=true">
-<br/>
-
-<!-- Language Stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-Qy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=dark-Qy&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-Qy&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6"/>
 </p>
+
+</details>
 
 <picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake-dark.svg">
@@ -36,37 +31,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🛠️ Tech Stack
-
+## 🛠️ Tech & Connect
 <p align="center">
-<!-- Tech Icons -->
-<img align="center" src="https://skillicons.dev/icons?i=go,py,react,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=go,py,js,react,linux,git&theme=light&perline=6" height="35"/>
+<br/>
+<a href="https://github.com/dark-Qy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" height="18"/></a>
+<img src="https://komarev.com/ghpvc/?username=dark-Qy&style=flat&color=blue" height="18"/>
 </p>
 
+<!-- 超简页脚 - 只有80px高 -->
 <div align="center">
-  
-  <!-- Programming Languages -->
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  <!-- Technologies -->
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-  <!-- Development Tools -->
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Happy+Coding!&fontSize=25&fontColor=fff" />
 </div>
-
-## 🔍 Connect With Me
-
-<p align="center">
-<a href="https://github.com/dark-Qy"><img src="https://img.shields.io/badge/GitHub-dark--Qy-blue?logo=github" /></a>
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=dark-Qy&abbreviated=true&color=yellow" />
-</p>
-
-<!-- Page Footer Animation -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
