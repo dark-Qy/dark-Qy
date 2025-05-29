@@ -30,6 +30,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-Qy&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dark-Qy/dark-Qy/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🛠️ Tech Stack
 
 <p align="center">
