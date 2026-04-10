@@ -18,11 +18,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=dark-Qy&show_icons=true&theme=transparent&hide_border=true&hide_title=true&include_all_commits=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-Qy&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6"/>
-</p>
-
 </details>
 
 <picture align="left">
